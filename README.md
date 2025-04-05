@@ -15,3 +15,5 @@ This is inspired by a conference paper of [S. Srivastava (2024)](https://ieeexpl
 Data analysed is from [Kaggle's Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) by Archit Sharma.
 
 *PS: This project is done in parallel to my studies for MSc in AI at the University of Essex Online (UoEO) for the sake of exploration and practice. No general claims or arguments are intended.*
+
+Go to [the project's notebook](https://github.com/IslamSalahuddin/Classifiers-for-Loan-Approval/blob/main/loan_approval_classifiers.ipynb) to see the code and results. 
